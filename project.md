@@ -9,9 +9,8 @@
 Summary of Tasks:
   
 - Submit a data set;
-- Choose a data set from the approved datasets for ARIMA modeling
+- Choose a data set from the approved datasets
 - Submit first analysis as part of homework - to be assigned
-- Choose a data set from the approved datasets for state-space modeling
 - Submit second analysis as part of homework - to be assigned
 - Submit final paper on Friday, 4/24/20 by 11:59pm. See below for guidelines.
   
@@ -34,6 +33,7 @@ All students who submit at least one potential dataset will have a single bonus 
 
 Here are some links to some places to look for data, which range from data repositories that contain cleaned datasets that are often used to demonstrate various concepts to places where raw (uncleaned) time series data is available for download:
 
+- [Federal Reserve Bank of Saint Louis](https://www.stlouisfed.org)
 - [`fivethirtyeight` Package for `R`](https://fivethirtyeight-r.netlify.com/articles/fivethirtyeight.html) 
 - [Dryad Data Repository](https://datadryad.org)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=ts&sort=nameUp&view=table)

@@ -14,7 +14,8 @@ Homework
 
 
 ## Assignments
-* [Homework 1](https://maryclare.github.io/atsa/content/homework/hw_1.pdf)
+* [Homework 1](https://maryclare.github.io/stat697/content/homework/hw_1.pdf)
+  - Data for Homework 1: [`broc`](https://maryclare.github.io/stat697/content/data/broc.RData)
 
 
 
