@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Monday, 1/27/20
+  - For logistic reasons, homeworks are now due in printed form at the beginning of class on Tuesdays, by 10:00am.
 * Sunday, 1/26/20
   - The [syllabus](https://maryclare.github.io/stat697/content/syllabus_697_spring2020.pdf) has been updated to include information about student disability services at UMass.
 * Thursday, 1/23/20
