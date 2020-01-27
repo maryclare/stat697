@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Sunday, 1/26/20
+  - The [syllabus](https://maryclare.github.io/stat697/content/syllabus_697_spring2020.pdf) has been updated to include information about student disability services at UMass.
 * Thursday, 1/23/20
     - [First set of notes](https://maryclare.github.io/stat697/content/notes/notes_1.pdf) on regression related review concepts has been posted. 
     - [Regression review](https://maryclare.github.io/stat697/content/code/regression_review.R) code from class has been posted.
