@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Tuesday, 1/28/20
+  - [Regression review](https://maryclare.github.io/stat697/content/code/regression_review.R) code from class has been udpated.
 * Monday, 1/27/20
   - For logistic reasons, homeworks are now due in printed form at the beginning of class on Tuesdays, by 10:00am.
 * Sunday, 1/26/20
