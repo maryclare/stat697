@@ -140,7 +140,7 @@ linmod.t1 <- lm(price~factor(month) + t, data = straw)
 nboot <- 1000
 beta.vals <- rep(NA, nboot)
 for (i in 1:nboot) {
-  by <- rnorm(n, mean = fitted.values(linmod.t1), sd = summary(linmod)$sigma)
+  by <- rnorm(n, mean = fitted.values(linmod.t1), sd = summary(linmod.t1)$sigma)
   blinmod.t <- lm(by~factor(straw$month) + straw$t + I(straw$t^2), data = straw)
   beta.vals[i] <- blinmod.t$coef[length(blinmod.t$coef)]
 }
