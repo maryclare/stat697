@@ -8,7 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
-* Introduction and a review of time series concepts: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_2.pdf)
+* Basic Time Series Concepts: [`notes_2.pdf`](https://maryclare.github.io/stat697/content/notes/notes_2.pdf)
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 Lecture Code:
