@@ -8,12 +8,14 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
+* Introduction and a review of time series concepts: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_2.pdf)
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 Lecture Code:
+* Regression: [`regression_review_continued.R`](https://maryclare.github.io/stat697/content/code/regression_review_continued.R)
+  - Data for regression review: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
 * Regression: [`regression_review.R`](https://maryclare.github.io/stat697/content/code/regression_review.R)
   - Data for regression review: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
-
 
 Resources for `R`:
 * We will use `R` extensively. Here are some recommended resources if are either entirely or somewhat new to to `R`:

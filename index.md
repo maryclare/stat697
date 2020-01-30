@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Thursday, 1/30/20
+  - More [regression review](https://maryclare.github.io/stat697/content/code/regression_review_continued.R) code from class has been added.
 * Tuesday, 1/28/20
   - [Homework 2](https://maryclare.github.io/stat697/content/homework/hw_2.pdf) has been posted online. It is due by 10:00am in class, Tuesday 2/4/20.
   - [Regression review](https://maryclare.github.io/stat697/content/code/regression_review.R) code from class has been updated.
