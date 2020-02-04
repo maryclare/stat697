@@ -4,6 +4,9 @@ layout: stat697
 
 News
 -------
+* Tuesday, 2/04/20
+  - Code motivating time series models from class has been added to the [notes page](https://maryclare.github.io/stat697/notes).
+  - Solutions to Homework 1 have been posted to the [Homework page](https://maryclare.github.io/stat697/content/homework.html).
 * Thursday, 1/30/20
   - More regression review code from class has been added to the [notes page](https://maryclare.github.io/stat697/notes).
 * Tuesday, 1/28/20

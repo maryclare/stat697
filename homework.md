@@ -15,10 +15,12 @@ Homework
 
 ## Assignments
 * [Homework 2](https://maryclare.github.io/stat697/content/homework/hw_2.pdf)
-  - Data for Homework 2: [`broc`](https://maryclare.github.io/stat697/content/data/broc.RData)
 * [Homework 1](https://maryclare.github.io/stat697/content/homework/hw_1.pdf)
-  - Data for Homework 1: [`broc`](https://maryclare.github.io/stat697/content/data/broc.RData)
+  - Solutions: [`hw_1_solutions.pdf`](https://maryclare.github.io/stat697/content/homework/hw_1_solutions.pdf), [`hw_1_solutions.Rmd`](https://maryclare.github.io/stat697/content/homework/hw_1_solutions.Rmd)
 
+
+## Homework Data
+* Broccoli Prices: [`broc`](https://maryclare.github.io/stat697/content/data/broc.RData)
 
 
     
