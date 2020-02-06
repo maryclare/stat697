@@ -18,6 +18,7 @@ Homework
 ## Assignments
 * [Homework 3](https://maryclare.github.io/stat697/content/homework/hw_3.pdf)
 * [Homework 2](https://maryclare.github.io/stat697/content/homework/hw_2.pdf)
+  - Solutions: [`hw_2_solutions.pdf`](https://maryclare.github.io/stat697/content/homework/hw_2_solutions.pdf), [`hw_2_solutions.Rmd`](https://maryclare.github.io/stat697/content/homework/hw_2_solutions.Rmd)
 * [Homework 1](https://maryclare.github.io/stat697/content/homework/hw_1.pdf)
   - Solutions: [`hw_1_solutions.pdf`](https://maryclare.github.io/stat697/content/homework/hw_1_solutions.pdf), [`hw_1_solutions.Rmd`](https://maryclare.github.io/stat697/content/homework/hw_1_solutions.Rmd)
 
