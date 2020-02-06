@@ -5,12 +5,12 @@ layout: stat697
 News
 -------
 * Thursday, 2/06/20
-  - Solutions to Homework 2 have been posted to the [Homework page](https://maryclare.github.io/stat697/content/homework.html).
+  - Solutions to Homework 2 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Wednesday, 2/05/20
   - [Homework 3](https://maryclare.github.io/stat697/content/homework/hw_3.pdf) has been posted online. It is due by 10:00am in class, Tuesday 2/11/20.
 * Tuesday, 2/04/20
   - Code motivating time series models from class has been added to the [notes page](https://maryclare.github.io/stat697/notes).
-  - Solutions to Homework 1 have been posted to the [Homework page](https://maryclare.github.io/stat697/content/homework.html).
+  - Solutions to Homework 1 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Thursday, 1/30/20
   - More regression review code from class has been added to the [notes page](https://maryclare.github.io/stat697/notes).
 * Tuesday, 1/28/20
