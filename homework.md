@@ -11,6 +11,8 @@ Homework
     - You can find some example `R` Markdown syntax in [solutions from last year's homework assignments](https://github.com/maryclare/atsa/homework).     - You can make a `.pdf` file by either compiling an `.Rmd` file directly to `.pdf` (this may require that you have additional software installed on your computer) or by compiling an `.Rmd` file to `.html`, opening it in your browser, and then saving it as a `.pdf`.
 * Raw `R` output alone will not be accepted as a solution.
 * Figures and tables must be clearly and fully annotated.
+* Use `R` packages and functions we have not discussed in class at your own risk. You will not be marked down for using them if your solutions are correct, but you may not get partial credit if your solutions are incorrect.
+
 
 
 ## Assignments
