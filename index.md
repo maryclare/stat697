@@ -7,6 +7,7 @@ News
 * Friday, 2/07/20
     - Code describing what happens if we compute the ACF of a nonstationary process has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
     - Notes on [basic time series concepts](https://maryclare.github.io/stat697/content/notes/notes_2.pdf) and [AR, MA, and ARMA models](https://maryclare.github.io/stat697/content/notes/notes_3.pdf) have been posted.
+    - [Regression review](https://maryclare.github.io/stat697/content/notes/notes_1.pdf) notes have finally been updated to include cross-validation and the parametric bootstrap.
 * Thursday, 2/06/20
   - Solutions to Homework 2 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Wednesday, 2/05/20
