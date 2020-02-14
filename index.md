@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Friday, 2/14/20
+  - [Homework 4](https://maryclare.github.io/stat697/content/homework/hw_4.pdf) has been posted online. It is due by 10:00am in class, Thursday 2/20/20.
 * Friday, 2/07/20
     - Code describing what happens if we compute the ACF of a nonstationary process has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
     - Notes on [basic time series concepts](https://maryclare.github.io/stat697/content/notes/notes_2.pdf) and [AR, MA, and ARMA models](https://maryclare.github.io/stat697/content/notes/notes_3.pdf) have been posted.
