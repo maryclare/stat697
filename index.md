@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Wednesday 2/19/20
+  - I have slightly expanded on a few questions in [Homework 4](https://maryclare.github.io/stat697/content/homework/hw_4.pdf), in hopes of making them clearer.
 * Tuesday 2/18/20
   - Solutions to Homework 3 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Friday, 2/14/20
