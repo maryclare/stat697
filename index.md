@@ -6,6 +6,7 @@ News
 -------
 * Thursday, 2/20/20
   - [Homework 5](https://maryclare.github.io/stat697/content/homework/hw_5.pdf) has been posted online. It is due by 10:00am in class, Thursday 2/20/20.
+  - Code from today's class about using the `arima` function to estimate the parameters of an AR(p) model has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
 * Wednesday 2/19/20
   - I have slightly expanded on a few questions in [Homework 4](https://maryclare.github.io/stat697/content/homework/hw_4.pdf), in hopes of making them clearer.
 * Tuesday 2/18/20

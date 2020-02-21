@@ -13,6 +13,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* Using `arima`: [`arima_for_ar.R`](https://maryclare.github.io/stat697/content/code/arima_for_ar.R)
 * The ACF of a Nonstationary Process: [`acf_nonstationary.R`](https://maryclare.github.io/stat697/content/code/acf_nonstationary.R)
 * Motivating Time Series Models: [`motivate_tsmodels.R`](https://maryclare.github.io/stat697/content/code/motivate_tsmodels.R)
 * Regression Continued: [`regression_review_continued.R`](https://maryclare.github.io/stat697/content/code/regression_review_continued.R)
