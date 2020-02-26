@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Wednesday, 2/26/20
+  - Corrected a typo in 2. d. of Homework 5.
 * Tuesday, 2/25/20
   - Office hours for Wednesday 2/26/20 have been rescheduled to 2:00pm-4:00pm.
   - Code and data from today's class about using the `arima` function to estimate the parameters of AR(p) and MA(q) models have been added to the  [notes page](https://maryclare.github.io/stat697/notes).
