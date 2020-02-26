@@ -13,6 +13,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* More on using `arima` for moving average models: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/ma_arima.R)
+* More on using `arima` for autoregressive models: [`ar_arima.R`](https://maryclare.github.io/stat697/content/code/ar_arima.R)
 * Using `arima`: [`arima_for_ar.R`](https://maryclare.github.io/stat697/content/code/arima_for_ar.R)
 * The ACF of a Nonstationary Process: [`acf_nonstationary.R`](https://maryclare.github.io/stat697/content/code/acf_nonstationary.R)
 * Motivating Time Series Models: [`motivate_tsmodels.R`](https://maryclare.github.io/stat697/content/code/motivate_tsmodels.R)
@@ -20,7 +22,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Regression: [`regression_review.R`](https://maryclare.github.io/stat697/content/code/regression_review.R)
 
 Lecture Data: 
-* Straberry Prices: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
+* Massachusetts Exports: [`expo`](https://maryclare.github.io/stat697/content/data/expo.RData)
+* Strawberry Prices: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
 
 Resources for `R`:
 * We will use `R` extensively. Here are some recommended resources if are either entirely or somewhat new to to `R`:

@@ -10,6 +10,7 @@ linmod.straw <- lm(price~factor(month)+dayssincestart, data = straw)
 y <- linmod.straw$residuals
 
 # The arima function estimates the parameters of an AR-p model
+ar0 <- arima(y, order = c(0, 0, 0)) # Fits an AR-0 model
 ar1 <- arima(y, order = c(1, 0, 0)) # Fits an AR-1 model
 ar2 <- arima(y, order = c(2, 0, 0)) # Fits an AR-2 model
 
