@@ -54,5 +54,5 @@ polygon(c(expo$fdate[101:120], rev(expo$fdate[101:120])),
 
 p <- 4
 acf(y[sub], lag.max = 50)
-acf <- ARMAacf(ar = coefs[which(p == ps), 1:p], lag.max = 50)
+acf <- ARMAacf(ma = coefs[which(q == qs), 1:q], lag.max = 50)
 lines(0:50, acf, col = "red")
