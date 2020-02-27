@@ -5,6 +5,8 @@ layout: stat697
 News
 -------
 * Wednesday, 2/26/20
+  - Solutions to Exam 1 have been posted to the [notes page](https://maryclare.github.io/stat697/notes).
+  - Solutions to Homework 4 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
   - Corrected a typo in 2. d. of Homework 5.
 * Tuesday, 2/25/20
   - Office hours for Wednesday 2/26/20 have been rescheduled to 2:00pm-4:00pm.

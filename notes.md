@@ -25,6 +25,9 @@ Lecture Data:
 * Massachusetts Exports: [`expo`](https://maryclare.github.io/stat697/content/data/expo.RData)
 * Strawberry Prices: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
 
+Exam Solutions:
+* [Exam 1](https://maryclare.github.io/stat697/content/homework/exam_1_sol.pdf)
+
 Resources for `R`:
 * We will use `R` extensively. Here are some recommended resources if are either entirely or somewhat new to to `R`:
     - [`swirl`](https://swirlstats.com/students.html) is a very unique resource that teaches you how to use `R` from within `R`. I recommend the ``R Programming'' course, it's surprisingly fun even if you know most or all of the concepts already!
