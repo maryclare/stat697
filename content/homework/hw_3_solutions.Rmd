@@ -174,7 +174,7 @@ Yes - several of the observed sample autocorrelations fall far outside of the in
 (e) Recall the approximate distribution of each sample autocorrelation value $\hat{\rho}_y\left(h\right)$ as $n\rightarrow \infty$, for fixed $h$, for a Gaussian white noise process $\boldsymbol y$. If we assume that $\hat{\rho}_y\left(h\right)$ and $\hat{\rho}_y\left(l\right)$ are independent if $h\neq l$, what is the approximate distribution of $n\sum_{l = 1}^h \hat{\rho}_y\left(h\right)^2$ for a Gaussian white noise process $\boldsymbol y$ as $n\rightarrow \infty$, for fixed $h$?
 
 \color{blue}
-The approximate distribution of $n\sum_{l = 1}^h \hat{\rho}_y\left(h\right)^2$ will be $\chi^2_h$, because $n\sum_{l = 1}^h \hat{\rho}_y\left(h\right)^2$ can be rewritten as the sum of $h$ squared independent squared normal random variables.
+The approximate distribution of $n\sum_{l = 1}^h \hat{\rho}_y\left(h\right)^2$ will be $\chi^2_h$ or equivalently gamma$\left(\text{shape}=\frac{h}{2}, \text{rate}=\frac{1}{2}\right)$, because $n\sum_{l = 1}^h \hat{\rho}_y\left(h\right)^2$ can be rewritten as the sum of $h$ squared independent squared normal random variables.
 \color{black}
 
 (f) Using your results from (e), test the null hypothesis that the first $h = 50$ autocorrelations sum to exactly zero at level $\alpha = 0.05$. Give the value of the test statistic, the corresponding quantile of the test statistic under the null.
