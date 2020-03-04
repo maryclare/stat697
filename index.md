@@ -4,6 +4,9 @@ layout: stat697
 
 News
 -------
+* Tuesday, 3/03/20
+  - Code from today's class about using the autocorrelation or partial autocorrelation function to choose model order has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
+  - Notes on [forecasting](https://maryclare.github.io/stat697/content/notes/notes_4.pdf) and [ARMA estimation](https://maryclare.github.io/stat697/content/notes/notes_5.pdf) have been posted.
 * Wednesday, 2/26/20
   - Solutions to Exam 1 have been posted to the [notes page](https://maryclare.github.io/stat697/notes).
   - Solutions to Homework 4 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).

@@ -8,11 +8,14 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Notes
+* ARMA Estimation: [`notes_5.pdf`](https://maryclare.github.io/stat697/content/notes/notes_5.pdf)
+* Forecasting: [`notes_4.pdf`](https://maryclare.github.io/stat697/content/notes/notes_4.pdf)
 * AR, MA, and ARMA: [`notes_3.pdf`](https://maryclare.github.io/stat697/content/notes/notes_3.pdf)
 * Basic Time Series Concepts: [`notes_2.pdf`](https://maryclare.github.io/stat697/content/notes/notes_2.pdf)
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* More on using `acf` and `pacf` to choose model order: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/acf_pacf.R)
 * More on using `arima` for moving average models: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/ma_arima.R)
 * More on using `arima` for autoregressive models: [`ar_arima.R`](https://maryclare.github.io/stat697/content/code/ar_arima.R)
 * Using `arima`: [`arima_for_ar.R`](https://maryclare.github.io/stat697/content/code/arima_for_ar.R)
