@@ -4,6 +4,9 @@ layout: stat697
 
 News
 -------
+* Wednesday, 3/04/20
+  - Office hours that were originally scheduled for Wednesday 3/04/20 have been moved to Friday 3/06/20 from 8:30-10:30AM.
+  - Office hours after 3/09/20 will be Wednesdays from 10:00-11:00AM and Fridays from 9:00-10:00AM.
 * Tuesday, 3/03/20
   - Code from today's class about using the autocorrelation or partial autocorrelation function to choose model order has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
   - Notes on [forecasting](https://maryclare.github.io/stat697/content/notes/notes_4.pdf) and [ARMA estimation](https://maryclare.github.io/stat697/content/notes/notes_5.pdf) have been posted.
