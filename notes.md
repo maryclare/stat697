@@ -15,7 +15,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
-* More on using `acf` and `pacf` to choose model order: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/acf_pacf.R)
+* Using `acf` and `pacf` to choose model order: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/acf_pacf.R)
+* Using the Durbin-Levinson Algorithm: [`durbin_levinson.R`](https://maryclare.github.io/stat697/content/code/durbin_levinson.R)
 * More on using `arima` for moving average models: [`ma_arima.R`](https://maryclare.github.io/stat697/content/code/ma_arima.R)
 * More on using `arima` for autoregressive models: [`ar_arima.R`](https://maryclare.github.io/stat697/content/code/ar_arima.R)
 * Using `arima`: [`arima_for_ar.R`](https://maryclare.github.io/stat697/content/code/arima_for_ar.R)
