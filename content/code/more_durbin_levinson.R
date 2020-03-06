@@ -51,11 +51,9 @@ solve.dl <- function(n, phi1 = 0, theta1 = 0, sig.sq.w = 1) {
               "v" = v, "v.n" = v[length(v)]))
 }
 
-# Let's look at the coefficients and expected squared error losses!
-
-# First, just consider AR(1)
-phi1 <- 0.5
-theta1 <- 0
+# Now let's look at an MA(1) model
+phi1 <- 0
+theta1 <- 0.5
 sig.sq.w <- 1
 n <- 5
 dl <- solve.dl(n = n, phi1 = phi1, theta1 = theta1, sig.sq.w = sig.sq.w)
@@ -65,10 +63,21 @@ plot(dl$v, type = "b")
 abline(h = sig.sq.w, lty = 3, col = "blue")
 
 # What do the partial autocorrelation coefficients look like?
-plot(diag(dl$C), 
-     type = "b", ylab = expression(c[jj]), xlab = "j")
+plot(diag(dl$C), type = "b", ylab = expression(c[jj]), xlab = "j")
 abline(h = 0, lty = 3)
 
+# Put the pices together, look at an ARMA(1, 1) model
+phi1 <- 0.5
+theta1 <- -0.25
+sig.sq.w <- 1
+n <- 5
+dl <- solve.dl(n = n, phi1 = phi1, theta1 = theta1, sig.sq.w = sig.sq.w)
+dl
+# What's happening to our expected prediction loss as we get more data?
+plot(dl$v, type = "b")
+abline(h = sig.sq.w, lty = 3, col = "blue")
 
-
+# What do the partial autocorrelation coefficients look like?
+plot(diag(dl$C), type = "b", ylab = expression(c[jj]), xlab = "j")
+abline(h = 0, lty = 3)
 

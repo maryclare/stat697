@@ -19,7 +19,7 @@ length(y)
 # assess performance
 sub <- 1:100
 
-# Make a matrix of lags - let's consider up to 20
+# Choose the orders of the MA models we want to consider
 qs <- 0:20
 aics <- rep(NA, length(qs))
 pred.vals <- matrix(NA, nrow = length(qs), 

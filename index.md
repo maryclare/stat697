@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Thursday, 3/05/20
+  - Code from today's class about the Durbin-Levinson algorithm and estimating an ARMA(p, q) model has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
 * Wednesday, 3/04/20
   - [Homework 6](https://maryclare.github.io/stat697/content/homework/hw_6.pdf) has been posted online. It is due by 10:00am in class, Tuesday 3/10/20.
   - Solutions to Homework 5 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
