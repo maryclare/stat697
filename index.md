@@ -5,6 +5,7 @@ layout: stat697
 News
 -------
 * Monday, 3/09/20
+  - Corrected a hint provided in 2. (b) on [Homework 6](https://maryclare.github.io/stat697/content/homework/hw_6.pdf).
   - Exam 2 has been rescheduled, from Thursday 3/12 to Thursday 4/2.
 * Thursday, 3/05/20
   - Code from today's class about the Durbin-Levinson algorithm and estimating an ARMA(p, q) model has been added to the  [notes page](https://maryclare.github.io/stat697/notes).
