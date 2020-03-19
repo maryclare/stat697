@@ -4,6 +4,9 @@ layout: stat697
 
 News
 -------
+* Thursday 3/19/20
+  - I have made a [Piazza page](https://piazza.com/umass/spring2020/stat697/home) for our class to conduct remote discussions on.
+  - Going forward, we will use [Moodle](https://moodle.umass.edu) for grades and lecture videos.
 * Monday, 3/09/20
   - Corrected a hint provided in 2. (b) on [Homework 6](https://maryclare.github.io/stat697/content/homework/hw_6.pdf).
   - Exam 2 has been rescheduled, from Thursday 3/12 to Thursday 4/2.
