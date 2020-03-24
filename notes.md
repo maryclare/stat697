@@ -7,7 +7,14 @@ Notes and Slides
 
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
-## Lecture Notes
+## Lecture Recordings
+* [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
+
+## Contemporaneous Lecture Notes
+* [`ipad_notes_032420.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_032420.pdf)
+
+## Typed Lecture Notes
+* Non-Stationarity: [`notes_6.pdf`](https://maryclare.github.io/stat697/content/notes/notes_6.pdf)
 * ARMA Estimation: [`notes_5.pdf`](https://maryclare.github.io/stat697/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/stat697/content/notes/notes_4.pdf)
 * AR, MA, and ARMA: [`notes_3.pdf`](https://maryclare.github.io/stat697/content/notes/notes_3.pdf)
