@@ -4,6 +4,9 @@ layout: stat697
 
 News
 -------
+* Tuesday 3/24/20
+  - I have posted today's lecture recording, the notes I made during the lecture, and the typed notes on nonstationarity on the [notes page](https://maryclare.github.io/stat697/notes).
+  - The last two exams will not take place. Everyone will receive full credit for the second and third exams. The [syllabus](https://maryclare.github.io/stat697/content/syllabus_697_spring2020.pdf) has been updated accordingly.
 * Thursday 3/19/20
   - I have made a [Piazza page](https://piazza.com/umass/spring2020/stat697/home) for our class to conduct remote discussions on.
   - Going forward, we will use [Moodle](https://moodle.umass.edu) for grades and lecture videos.
