@@ -8,10 +8,14 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Thursday, March 26](https://umass-amherst.zoom.us/rec/share/5O9PBpzZ0FhLXonrr3-FSowfH43qT6a82iMY-PFcxEZP4DY5AWuFa5RB-f__FKfn?startTime=1585231495000)
+  - Additional follow-up due to iPad difficulties: [Thursday, March 24 Continued](https://umass-amherst.zoom.us/rec/share/4px2F7HU7CBJco3J9m31SrRwJKL6aaa80CVK8vNYykgubJPRFsL0wEaIjoauNUIm?startTime=1585238166000)
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_032620.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_032620.pdf)
 * [`ipad_notes_032420.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_032420.pdf)
+* [`ipad_notes_032120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_031220.pdf)
 
 ## Typed Lecture Notes
 * Non-Stationarity: [`notes_6.pdf`](https://maryclare.github.io/stat697/content/notes/notes_6.pdf)
@@ -22,6 +26,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* Testing Non-Stationarity: [`non_stationarity_tests.R`](https://maryclare.github.io/stat697/content/code/non_stationarity_tests.R)
+* Trend Estimation in ARMA(p, q) Models: [`arma_with_covariates.R`](https://maryclare.github.io/stat697/content/code/arma_with_covariates.R)
 * Estimation of ARMA(p, q) Models: [`arma_arima.R`](https://maryclare.github.io/stat697/content/code/arma_arima.R)
 * Durbin-Levinson for MA(1), ARMA(1, 1): [`more_durbin_levinson.R`](https://maryclare.github.io/stat697/content/code/more_durbin_levinson.R)
 * Durbin-Levinson for AR(1): [`durbin_levinson.R`](https://maryclare.github.io/stat697/content/code/durbin_levinson.R)
