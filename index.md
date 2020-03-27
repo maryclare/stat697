@@ -4,6 +4,10 @@ layout: stat697
 
 News
 -------
+* Friday 3/27/20
+  - [Homework 7](https://maryclare.github.io/stat697/content/homework/hw_7.pdf) has been posted online. It is due by 5:00pm via Moodle, Friday 4/03/20.
+* Thursday 3/26/20
+  - I have posted today's lecture recording, the notes I made during the lecture, and the typed notes on nonstationarity on the [notes page](https://maryclare.github.io/stat697/notes).
 * Tuesday 3/24/20
   - I have posted today's lecture recording, the notes I made during the lecture, and the typed notes on nonstationarity on the [notes page](https://maryclare.github.io/stat697/notes).
   - The last two exams will not take place. Everyone will receive full credit for the second and third exams. The [syllabus](https://maryclare.github.io/stat697/content/syllabus_697_spring2020.pdf) has been updated accordingly.
