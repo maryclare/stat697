@@ -6,6 +6,7 @@ News
 -------
 * Tuesday 3/31/20
   - I have posted today's lecture recording, the notes I made during the lecture, code for ARIMA models, and the typed notes on linear state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
+  - Clarified the cross-validation procedures described in [Homework 7](https://maryclare.github.io/stat697/content/homework/hw_7.pdf).
 * Friday 3/27/20
   - [Homework 7](https://maryclare.github.io/stat697/content/homework/hw_7.pdf) has been posted online. It is due by 5:00pm via Moodle, Friday 4/03/20.
 * Thursday 3/26/20
