@@ -13,7 +13,7 @@ This week, we'll try modeling dependence over time using an moving average model
 \begin{align}\label{eq:mod}
 y_t = \mu + \sum_{i = 1}^q \theta_i w_{t-i} + w_t\text{, \quad} w_t\stackrel{i.i.d.}{\sim} \text{normal}\left(0, \sigma^2_w\right)
 \end{align}
-Assume $y_t$ is a stationary process, i.e. assume that the process has constant mean $\mathbb{E}\left[y_t\right] = \mu$, finite variance $\mathbb{V}\left[y_t\right] = \gamma_y\left(0\right)$, and autocovariances $\text{Cov}\left[y_t, y_{t-h}\right]\gamma_y\left(\left|h\right|\right)$.
+Assume $y_t$ is a stationary process, i.e. assume that the process has constant mean $\mathbb{E}\left[y_t\right] = \mu$, finite variance $\mathbb{V}\left[y_t\right] = \gamma_y\left(0\right)$, and autocovariances $\text{Cov}\left[y_t, y_{t-h}\right]=\gamma_y\left(\left|h\right|\right)$.
 
 1. Checking Invertability and Examining the Autocorrelation Function
 
