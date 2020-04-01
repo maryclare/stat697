@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Wednesday 4/01/20
+  - Solutions to Homework 6 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Tuesday 3/31/20
   - I have posted today's lecture recording, the notes I made during the lecture, code for ARIMA models, and the typed notes on linear state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
   - Clarified the cross-validation procedures described in [Homework 7](https://maryclare.github.io/stat697/content/homework/hw_7.pdf).
