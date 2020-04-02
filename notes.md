@@ -8,12 +8,14 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Thursday, April 2](https://umass-amherst.zoom.us/rec/share/9O4vc53iymlLU6_tw2_GcaMqM5T9aaa8hHJI_KYMz0gg2np-CYZyUncXlgv6s1gb?startTime=1585836146000)
 * [Tuesday, March 31](https://umass-amherst.zoom.us/rec/share/2ctPA6DL8WJJes_o1GPmZ6Q4Bri1X6a823AZ-vULnU637Dfp1eFYWUoCeuNrzcu6?startTime=1585663279000)
 * [Thursday, March 26](https://umass-amherst.zoom.us/rec/share/5O9PBpzZ0FhLXonrr3-FSowfH43qT6a82iMY-PFcxEZP4DY5AWuFa5RB-f__FKfn?startTime=1585231495000)
   - Additional follow-up due to iPad difficulties: [Thursday, March 24 Continued](https://umass-amherst.zoom.us/rec/share/4px2F7HU7CBJco3J9m31SrRwJKL6aaa80CVK8vNYykgubJPRFsL0wEaIjoauNUIm?startTime=1585238166000)
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_040220.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040220.pdf)
 * [`ipad_notes_033120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_033120.pdf)
 * [`ipad_notes_032620.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_032620.pdf)
 * [`ipad_notes_032420.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_032420.pdf)
@@ -29,6 +31,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* Fitting a Simple State-Space Model: [`statespace_marss.R`](https://maryclare.github.io/stat697/content/code/statespace_marss.R)
 * Using ARIMA: [`arima.R`](https://maryclare.github.io/stat697/content/code/arima.R), [`arima_predict.R`](https://maryclare.github.io/stat697/content/code/arima_predict.R)
 * Testing Non-Stationarity: [`non_stationarity_tests.R`](https://maryclare.github.io/stat697/content/code/non_stationarity_tests.R)
 * Trend Estimation in ARMA(p, q) Models: [`arma_with_covariates.R`](https://maryclare.github.io/stat697/content/code/arma_with_covariates.R)

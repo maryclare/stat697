@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Thursday 4/02/20
+  - I have posted today's lecture recording, the notes I made during the lecture, and code for state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
 * Wednesday 4/01/20
   - Solutions to Homework 6 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
 * Tuesday 3/31/20
