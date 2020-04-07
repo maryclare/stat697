@@ -21,7 +21,11 @@ model <- list(
   Z=matrix("a"), A=matrix(0), R=matrix("sig.sq.v"),
   x0=matrix("mu"), tinitx=0 )
 
-fit <- MARSS(c(y), model=model, method = "kem")
+# Use EM to get starting values for direct maximization
+fit <- MARSS(c(y), model=model, method = "kem") 
+# Direct maximization starting at EM starting values
+fit.ml <- MARSS(c(y), model = model, method = "BFGS", inits = fit)
+
 # Get Kalman filter, predictor and smoother
 kf <- MARSSkfss(fit)
 
