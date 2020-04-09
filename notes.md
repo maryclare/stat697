@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Thursday, April 9](https://umass-amherst.zoom.us/rec/share/2epzPov9qW1OctLxsVzffP4QQaD1eaa8gXBLrPQMnk6jElV7mnCSvBmklwsffwhp?startTime=1586441136000)
 * [Tuesday, April 7](https://umass-amherst.zoom.us/rec/share/x8MpJLTK90VOWquS5VnyBIwbJ4j7X6a823JN-_Ren002kfUuf3WYgyaCoeyNrQ9h?startTime=1586268092000)
 * [Thursday, April 2](https://umass-amherst.zoom.us/rec/share/9O4vc53iymlLU6_tw2_GcaMqM5T9aaa8hHJI_KYMz0gg2np-CYZyUncXlgv6s1gb?startTime=1585836146000)
 * [Tuesday, March 31](https://umass-amherst.zoom.us/rec/share/2ctPA6DL8WJJes_o1GPmZ6Q4Bri1X6a823AZ-vULnU637Dfp1eFYWUoCeuNrzcu6?startTime=1585663279000)
@@ -16,6 +17,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_040920.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040920.pdf)
 * [`ipad_notes_040720.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040720.pdf)
 * [`ipad_notes_040220.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040220.pdf)
 * [`ipad_notes_033120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_033120.pdf)
@@ -24,6 +26,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [`ipad_notes_032120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_031220.pdf)
 
 ## Typed Lecture Notes
+* Spectral Analysis/The Spectral Domain: [`notes_8.pdf`](https://maryclare.github.io/stat697/content/notes/notes_8.pdf)
 * State-Space Models: [`notes_7.pdf`](https://maryclare.github.io/stat697/content/notes/notes_7.pdf)
 * Non-Stationarity: [`notes_6.pdf`](https://maryclare.github.io/stat697/content/notes/notes_6.pdf)
 * ARMA Estimation: [`notes_5.pdf`](https://maryclare.github.io/stat697/content/notes/notes_5.pdf)
@@ -33,6 +36,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* Prediction and Generalizing State-Space Models: [`more_statespace_marss.R`](https://maryclare.github.io/stat697/content/code/more_statespace_marss.R)
 * Fitting a Simple State-Space Model: [`statespace_marss.R`](https://maryclare.github.io/stat697/content/code/statespace_marss.R)
 * Using ARIMA: [`arima.R`](https://maryclare.github.io/stat697/content/code/arima.R), [`arima_predict.R`](https://maryclare.github.io/stat697/content/code/arima_predict.R)
 * Testing Non-Stationarity: [`non_stationarity_tests.R`](https://maryclare.github.io/stat697/content/code/non_stationarity_tests.R)
