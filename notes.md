@@ -8,7 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
-* [Tuesday, April 14] (https://umass-amherst.zoom.us/rec/share/95UpMavx0n1IeIWX1FmDd79_JpvqX6a80yFK_PoJnR4GoqF-NgOTK7-WcAOxsADI?startTime=1586872889000)
+* [Tuesday, April 14](https://umass-amherst.zoom.us/rec/share/95UpMavx0n1IeIWX1FmDd79_JpvqX6a80yFK_PoJnR4GoqF-NgOTK7-WcAOxsADI?startTime=1586872889000)
 * [Thursday, April 9](https://umass-amherst.zoom.us/rec/share/2epzPov9qW1OctLxsVzffP4QQaD1eaa8gXBLrPQMnk6jElV7mnCSvBmklwsffwhp?startTime=1586441136000)
 * [Tuesday, April 7](https://umass-amherst.zoom.us/rec/share/x8MpJLTK90VOWquS5VnyBIwbJ4j7X6a823JN-_Ren002kfUuf3WYgyaCoeyNrQ9h?startTime=1586268092000)
 * [Thursday, April 2](https://umass-amherst.zoom.us/rec/share/9O4vc53iymlLU6_tw2_GcaMqM5T9aaa8hHJI_KYMz0gg2np-CYZyUncXlgv6s1gb?startTime=1585836146000)
