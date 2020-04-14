@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Tuesday, April 14] (https://umass-amherst.zoom.us/rec/share/95UpMavx0n1IeIWX1FmDd79_JpvqX6a80yFK_PoJnR4GoqF-NgOTK7-WcAOxsADI?startTime=1586872889000)
 * [Thursday, April 9](https://umass-amherst.zoom.us/rec/share/2epzPov9qW1OctLxsVzffP4QQaD1eaa8gXBLrPQMnk6jElV7mnCSvBmklwsffwhp?startTime=1586441136000)
 * [Tuesday, April 7](https://umass-amherst.zoom.us/rec/share/x8MpJLTK90VOWquS5VnyBIwbJ4j7X6a823JN-_Ren002kfUuf3WYgyaCoeyNrQ9h?startTime=1586268092000)
 * [Thursday, April 2](https://umass-amherst.zoom.us/rec/share/9O4vc53iymlLU6_tw2_GcaMqM5T9aaa8hHJI_KYMz0gg2np-CYZyUncXlgv6s1gb?startTime=1585836146000)
@@ -17,6 +18,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_041420.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_041420.pdf)
 * [`ipad_notes_040920.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040920.pdf)
 * [`ipad_notes_040720.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040720.pdf)
 * [`ipad_notes_040220.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040220.pdf)
@@ -36,6 +38,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* More Spectral Methods: [`more_spectral.R`](https://maryclare.github.io/stat697/content/code/more_spectral.R)
+* An Introduction to Spectral Methods: [`intro_spectral.R`](https://maryclare.github.io/stat697/content/code/intro_spectral.R)
 * Prediction and Generalizing State-Space Models: [`more_statespace_marss.R`](https://maryclare.github.io/stat697/content/code/more_statespace_marss.R)
 * Fitting a Simple State-Space Model: [`statespace_marss.R`](https://maryclare.github.io/stat697/content/code/statespace_marss.R)
 * Using ARIMA: [`arima.R`](https://maryclare.github.io/stat697/content/code/arima.R), [`arima_predict.R`](https://maryclare.github.io/stat697/content/code/arima_predict.R)
