@@ -9,10 +9,34 @@
 Summary of Tasks:
   
 - Submit a data set;
-- Choose a data set from the approved datasets
-- Submit first analysis as part of homework - to be assigned
-- Submit second analysis as part of homework - to be assigned
-- Submit final paper on Friday, 4/24/20 by 11:59pm. See below for guidelines.
+- Choose a data set from the approved datasets;
+- Submit analysis as part of homework - to be assigned;
+- Submit final paper on Friday, 5/01/20 by 11:59pm. See below for guidelines.
+
+## Rubric for Final Paper
+  
+The final project will be:
+- 5 pages long including figures and tables, excluding `R` code and references;
+- Double spaced, with font size 12 and approximate 1 inch margins;
+    - If you are using `R` Markdown and cannot figure out how to achieve double spacing, you can single-space but then make sure that your final draft is no more than 3 pages long;
+- Written using the word processing software of your choosing;
+- Be accompanied by `R` code that reproduces all results.
+  
+It will be graded out of 25 points as follows:
+
+- (4 points) Introduction and exploratory analysis of proposed data
+- (7.5 points) Analysis using ARIMA with last 10% of observations witheld
+- (3 points) Conclusions of ARIMA analysis
+    - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.  
+- (7.5 points) Analysis using a state-space model with last 10% of observations witheld
+- (3 points) Conclusions of state-space analysis
+    - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values. 
+
+Some miscellaneous notes:
+
+  - Introduction and exploratory analysis could include ACF/PACF/smoothed periodogram/subset mean/subset variance plots, and a discussion of any possibly unusual or complicated features of the data, etc.
+  - Any time you select a model based on one of several possible tests or one of several possible criteria, justify the test or criteria you use! For instance, if you use augmented Dickey-Fuller comment on why you do that instead of using Dickey-Fuller or Phillips-Perron. Similarly, if you use AICc, explain why you do that instead of using AIC or SIC.  
+  
   
 ## Submitting a Potential Dataset
 
