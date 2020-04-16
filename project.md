@@ -27,15 +27,15 @@ It will be graded out of 25 points as follows:
 - (4 points) Introduction and exploratory analysis of proposed data
 - (7.5 points) Analysis using ARIMA with last 10% of observations witheld
 - (3 points) Conclusions of ARIMA analysis
-    - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.  
 - (7.5 points) Analysis using a state-space model with last 10% of observations witheld
 - (3 points) Conclusions of state-space analysis
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values. 
 
 Some miscellaneous notes:
 
-  - Introduction and exploratory analysis could include ACF/PACF/smoothed periodogram/subset mean/subset variance plots, and a discussion of any possibly unusual or complicated features of the data, etc.
+  - Introduction and exploratory analysis could include ACF/PACF/smoothed periodogram plots, and a discussion of any possibly unusual or complicated features of the data, etc.
   - Any time you select a model based on one of several possible tests or one of several possible criteria, justify the test or criteria you use! For instance, if you use augmented Dickey-Fuller comment on why you do that instead of using Dickey-Fuller or Phillips-Perron. Similarly, if you use AICc, explain why you do that instead of using AIC or SIC.  
+  - As part of your conclusions for each type of model (ARIMA or state-space), make sure to discuss how forecasts and confidence/prediction intervals relate to last 10% of the observations which were withheld from the analysis.
   
   
 ## Submitting a Potential Dataset
