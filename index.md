@@ -6,6 +6,7 @@ News
 -------
 * Thursday 4/16/20
   - I have posted today's lecture recording, the notes I made during the lecture, and updated code for state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
+  - I have moved the due date of the final paper to Friday, 5/01/20 by 11:59pm.
 * Tuesday 4/14/20
   - I have posted today's lecture recording, the notes I made during the lecture, and updated code for state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
 * Wednesday 4/08/20
