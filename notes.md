@@ -35,6 +35,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Non-Stationarity: [`notes_6.pdf`](https://maryclare.github.io/stat697/content/notes/notes_6.pdf)
 * ARMA Estimation: [`notes_5.pdf`](https://maryclare.github.io/stat697/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/stat697/content/notes/notes_4.pdf)
+  - Additional comments on forecast uncertainty:  [`forecast_uncertainty.pdf`](https://maryclare.github.io/stat697/content/notes/forecast_uncertainty.pdf)
 * AR, MA, and ARMA: [`notes_3.pdf`](https://maryclare.github.io/stat697/content/notes/notes_3.pdf)
 * Basic Time Series Concepts: [`notes_2.pdf`](https://maryclare.github.io/stat697/content/notes/notes_2.pdf)
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
@@ -60,6 +61,10 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Motivating Time Series Models: [`motivate_tsmodels.R`](https://maryclare.github.io/stat697/content/code/motivate_tsmodels.R)
 * Regression Continued: [`regression_review_continued.R`](https://maryclare.github.io/stat697/content/code/regression_review_continued.R)
 * Regression: [`regression_review.R`](https://maryclare.github.io/stat697/content/code/regression_review.R)
+
+## Miscellaneous Code
+* More flexible forecasting: [`diy_prediction.R`](https://maryclare.github.io/stat697/content/code/diy_prediction.R)
+* Computing the autocovariance function of an ARMA(p, q) process: [`arma_autocovariance.R`](https://maryclare.github.io/stat697/content/code/arma_autocovariance.R)
 
 Lecture Data: 
 * Massachusetts Exports: [`expo`](https://maryclare.github.io/stat697/content/data/expo.RData)

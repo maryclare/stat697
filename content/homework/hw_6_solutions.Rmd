@@ -216,8 +216,9 @@ for (q in qs) {
   
   fits.boot <- matrix(NA, nrow = n, ncol = nboot)
   for (j in 1:nboot) {
-    y.sim <- arima.sim(model = list(ma = theta.hat, sd = sqrt(sig.sq.w.hat)),
-                      n = n) + mu.hat
+    y.sim <- arima.sim(model = list(ma = theta.hat),
+                      n = n,
+                      sd = sqrt(sig.sq.w.hat)) + mu.hat
     mamod.sim <- try(arima(y.sim[1:m], order = c(0, 0, q)), silent = TRUE)
     if (!class(mamod.sim) == "try-error") {
     mu.hat.sim <- mamod.sim$coef[q + 1]
@@ -295,8 +296,9 @@ for (p in ps) {
   
   fits.boot <- matrix(NA, nrow = n, ncol = nboot)
   for (j in 1:nboot) {
-    y.sim <- arima.sim(model = list(ar = phi.hat, sd = sqrt(sig.sq.w.hat)),
-                      n = n) + mu.hat
+    y.sim <- arima.sim(model = list(ar = phi.hat),
+                      n = n,
+                      sd = sqrt(sig.sq.w.hat)) + mu.hat
     armod.sim <- try(arima(y.sim[1:m], order = c(p, 0, 0)), silent = TRUE)
     if (!class(armod.sim) == "try-error") {
     mu.hat.sim <- armod.sim$coef[p + 1]
