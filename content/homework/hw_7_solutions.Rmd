@@ -179,7 +179,7 @@ I tend to prefer the simplest plausible model, so I would use the Box-Pierce tes
 
 # Forecasting
 
-Using the best ARMA$\left(p, q\right)$ model based on your choice in part (d) of the previous problem, compute predicted values of the rest of the time series (just the last 12 observations) using the observed data using both of the two approaches. You can use the `predict` function to do get these predictions, with `n.ahead` set to the number of remaining observations. 
+Using the best ARMA$\left(p, q\right)$ model based on your choice in part (d) of the previous problem, compute predicted values of the rest of the time series (just the last 12 observations) using the observed data using both of the two approaches. You can use the `get.preds` function I have provided to get these predictions, with `h` set to the number of remaining observations. 
 
 (a) Make a table that shows estimates of the coefficient of the linear trend term, the autoregressive and/or moving average parameters, and noise variance fit using both approaches. Does the approach used affect the estimates much?
 
@@ -289,7 +289,7 @@ pred.part.boot.se <- apply(pred.part.boot, 2, sd)
 (d) Using the parametric bootstrap, obtain approximate standard errors of the predicted values of the last 12 observations. Remember - in approach i. we are treating the fitted values from the regression as fixed, so just simulate new residuals and continue to use the same fitted values. Add 95\% confidence intervals to your plot for each method. Does the approach used affect variances of the confidence intervals much? How do the confidence intervals compare to the prediction intervals? 
 
 \color{blue}
-See the plot after (e). The approach used does affect the approximate standard errors of the predicted values, which makes sense because the approximate standard errors for approach ii. account for uncertainty about $\boldsymbol \beta$ whereas the standard errors for approach i. do not. Regardless of the approach used, the confidence intervals tend to be larger than the prediction intervals from (c).
+See the plot after (e). The approach used does affect the approximate standard errors of the predicted values, which makes sense because the approximate standard errors for approach ii. account for uncertainty about $\boldsymbol \beta$ whereas the standard errors for approach i. do not. Regardless of the approach used, the confidence intervals tend to be much smaller than than the prediction intervals from (c).
 \color{black}
 
 (e) The prediction intervals for the last 12 observations obtained in (c) account for variability due to uncertainty regarding future values of the time series but do not account for uncertainty regarding the values of the parameters of the model. We can obtain a variance estimate that accounts for both sources of uncertainty by taking the sum of the variances obtained in (c) and (d). Prediction intervals that account for both sources of uncertainty can be obtained using this variance new estimate. Add these prediction intervals for the last 12 observations to your plot for each approach. Does the approach used affect variances of the confidence intervals much? Which source of variability appears to dominate? 
