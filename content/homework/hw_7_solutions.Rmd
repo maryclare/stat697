@@ -232,7 +232,7 @@ See the plot after (e). The approach used does not affect the predicted values m
 See the plot after (e). The approach used does not affect the variances of the predictions much.
 
 ```{r, echo = TRUE, eval = TRUE, warning = TRUE, error = TRUE,cache=TRUE}
-nboot <- 1000
+nboot <- 100
 
 pred.full.boot <- matrix(NA, nrow = nboot, ncol = length(y) - m)
 pred.part.boot <- matrix(NA, nrow = nboot, ncol = length(y) - m)
@@ -249,8 +249,6 @@ for (i in 1:nboot) {
                           n = m, 
                           "sd" = sqrt(arma.fit.part$sigma2)) + X[1:m, ]%*%beta.part
   
-  broc$z.sim.part <- NA
-  broc$z.sim.part[1:m] <- z.sim.part
   y.sim <- z.sim.part - X[1:m, ]%*%beta.part
   
   arma.fit.full.sim <- arima(z.sim.full[1:m], order = c(p, 0, q),
@@ -263,18 +261,13 @@ for (i in 1:nboot) {
                              sig.sq.w = arma.fit.full.sim$sigma2,
                              h = length(z) - m)$pred[(m + 1):length(z)] + 
     X[(m + 1):length(z), ]%*%beta.full.sim
-  # pred.full.sim <- predict(arma.fit.full.sim, n.ahead = ,
-  #                      newxreg = X[(m + 1):length(y), ])$pred
   arma.fit.part.sim <- arima(y.sim[1:m], order = c(p, 0, q),
-                         method = "ML")
+                         method = "ML", include.mean = FALSE)
   pred.part.sim <- get.preds(y[1:m],
                              phi = arma.fit.part.sim$coef["ar1"],
                              theta = 0,
                              sig.sq.w = arma.fit.part.sim$sigma2,
-                             h = length(z) - m)$pred[(m + 1):length(z)] + 
-    pred[(m + 1):length(y)]
-  # pred.part.sim <- predict(arma.fit.part.sim, n.ahead = length(y) - m)$pred + 
-  #   pred[(m + 1):length(y)]
+                             h = length(y) - m)$pred[(m + 1):length(y)] + pred[(m + 1):length(y)]
   
   pred.full.boot[i, ] <- pred.full.sim
   pred.part.boot[i, ] <- pred.part.sim
@@ -286,7 +279,7 @@ pred.part.boot.se <- apply(pred.part.boot, 2, sd)
 
 \color{black}
 
-(d) Using the parametric bootstrap, obtain approximate standard errors of the predicted values of the last 12 observations. Remember - in approach i. we are treating the fitted values from the regression as fixed, so just simulate new residuals and continue to use the same fitted values. Add 95\% confidence intervals to your plot for each method. Does the approach used affect variances of the confidence intervals much? How do the confidence intervals compare to the prediction intervals? 
+(d) Using the parametric bootstrap, obtain approximate standard errors of the predicted values of the last 12 observations. Remember - in approach i. we are treating the fitted values from the regression as fixed, so just simulate new residuals and continue to use the same fitted values. Add 95\% confidence intervals to your plot for each method. Does the approach used affect the confidence intervals much? How do the confidence intervals compare to the prediction intervals? 
 
 \color{blue}
 See the plot after (e). The approach used does affect the approximate standard errors of the predicted values, which makes sense because the approximate standard errors for approach ii. account for uncertainty about $\boldsymbol \beta$ whereas the standard errors for approach i. do not. Regardless of the approach used, the confidence intervals tend to be much smaller than than the prediction intervals from (c).
