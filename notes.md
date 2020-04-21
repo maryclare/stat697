@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Tuesday, April 21](https://umass-amherst.zoom.us/rec/share/vMFXdu3f2WFJG6Odz3OEVq8sH4b4T6a8hicbqPYIyE7dfjQxisi_DEhlgJPQgMni?startTime=1587477721000)
 * [Thursday, April 16](https://umass-amherst.zoom.us/rec/share/yf5FPezr2nNIXInguFvUV5E4AISmX6a80SMXrPUNnU-XZVfyfPAEObShA7o0Su5h?startTime=1587045709000)
 * [Tuesday, April 14](https://umass-amherst.zoom.us/rec/share/95UpMavx0n1IeIWX1FmDd79_JpvqX6a80yFK_PoJnR4GoqF-NgOTK7-WcAOxsADI?startTime=1586872889000)
 * [Thursday, April 9](https://umass-amherst.zoom.us/rec/share/2epzPov9qW1OctLxsVzffP4QQaD1eaa8gXBLrPQMnk6jElV7mnCSvBmklwsffwhp?startTime=1586441136000)
@@ -19,6 +20,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_042120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_042120.pdf)
 * [`ipad_notes_041620.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_041620.pdf)
 * [`ipad_notes_041420.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_041420.pdf)
 * [`ipad_notes_040920.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_040920.pdf)
@@ -30,6 +32,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [`ipad_notes_032120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_031220.pdf)
 
 ## Typed Lecture Notes
+* Multivariate Time Series Concepts: [`notes_10.pdf`](https://maryclare.github.io/stat697/content/notes/notes_10.pdf)
+* Multivariate Regression: [`notes_9.pdf`](https://maryclare.github.io/stat697/content/notes/notes_9.pdf)
 * Spectral Analysis/The Spectral Domain: [`notes_8.pdf`](https://maryclare.github.io/stat697/content/notes/notes_8.pdf)
 * State-Space Models: [`notes_7.pdf`](https://maryclare.github.io/stat697/content/notes/notes_7.pdf)
 * Non-Stationarity: [`notes_6.pdf`](https://maryclare.github.io/stat697/content/notes/notes_6.pdf)

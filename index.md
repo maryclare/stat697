@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Monday 4/21/20
+  - I have posted today's lecture recording, the notes I made during the lecture, and updated code for state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
 * Monday 4/20/20
   - I had made a mistake in how I implemented the parametric bootstrap for computing confidence and prediction intervals that account for estimation error on the Homework 7 solutions. Please see the updated solutions for corrected figures, and please see an additional document on the [notes page](https://maryclare.github.io/stat697/notes) titled [`forecast_uncertainty.pdf`](https://maryclare.github.io/stat697/content/notes/forecast_uncertainty.pdf) for clarification.
   - Solutions to Homework 8 have been posted to the [homework page](https://maryclare.github.io/stat697/homework).
