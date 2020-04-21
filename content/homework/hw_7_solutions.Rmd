@@ -68,9 +68,9 @@ I will sum over the first 20 squared sample autocorrelations to conduct the Box-
 
 | |i.| ii.
 -|-|-|-
-CV-1|$p = 2$, $q = 0$ | $p = 3$, $q = 1$
-CV-12| $p = 2$, $q = 1$ | $p = 3$, $q = 2$
-AIC | $p = 2$, $q = 1$ | $p = 3$, $q = 1$
+CV-1|$p = 3$, $q = 1$ | $p = 3$, $q = 1$
+CV-12| $p = 3$, $q = 2$ | $p = 3$, $q = 2$
+AIC | $p = 2$, $q = 1$ | $p = 2$, $q = 1$
 BIC | $p = 1$, $q = 0$ | $p = 1$, $q = 0$
 BP |  $p = 1$, $q = 0$ | $p = 1$, $q = 0$
 
@@ -85,6 +85,7 @@ for (p in ps) {
   for (q in qs) {
     l1mse <- rep(NA, num.cv)
     l12mse <- rep(NA, num.cv)
+    
     arma.fit <- arima(y[1:m], order = c(p, 0, q),
                           method = "ML")
     acf.fit <- acf(arma.fit$residuals, lag.max = 20, 
@@ -93,12 +94,24 @@ for (p in ps) {
     bpt <- m*sum(acf.fit^2)
     
     for (i in 1:num.cv) {
-      l1arma.fit <- arima(y[i:(m - num.cv + i - 1)], order = c(p, 0, q),
+      
+      linmod.i <- lm(price~dayssincestart+factor(month), data = broc,
+             subset = i:(m - num.cv + i - 1))
+      pred.i <- predict(linmod.i, broc)
+      y.i <- broc$price - pred.i
+      
+      l1arma.fit <- arima(y.i[i:(m - num.cv + i - 1)], order = c(p, 0, q),
                           method = "ML")
-      l1mse[i] <- (y[m - num.cv + i] - c(predict(l1arma.fit, n.ahead = 1)$pred))^2
-      l12arma.fit <- arima(y[i:(m - num.cv + i - 12)], order = c(p, 0, q),
+      l1mse[i] <- (y.i[m - num.cv + i] - c(predict(l1arma.fit, n.ahead = 1)$pred))^2
+      
+      linmod.i <- lm(price~dayssincestart+factor(month), data = broc,
+             subset = i:(m - num.cv + i - 12))
+      pred.i <- predict(linmod.i, broc)
+      y.i <- broc$price - pred.i
+      
+      l12arma.fit <- arima(y.i[i:(m - num.cv + i - 12)], order = c(p, 0, q),
                            method = "ML")
-      l12mse[i] <- sum((y[m - num.cv + i - 12 +  1:12] - 
+      l12mse[i] <- sum((y.i[m - num.cv + i - 12 +  1:12] - 
                           c(predict(l12arma.fit, n.ahead = 12)$pred))^2)
     }
     
