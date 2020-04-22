@@ -4,6 +4,8 @@ layout: stat697
 
 News
 -------
+* Wednesday 4/23/20
+  - [Homework 9](https://maryclare.github.io/stat697/content/homework/hw_9.pdf) has been posted online. It is due by 5:00pm via Moodle, Wendesday 4/29/20.
 * Monday 4/21/20
   - I have posted today's lecture recording, the notes I made during the lecture, and updated code for state-space models on the [notes page](https://maryclare.github.io/stat697/notes).
 * Monday 4/20/20

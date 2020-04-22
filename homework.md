@@ -13,9 +13,8 @@ Homework
 * Figures and tables must be clearly and fully annotated.
 * Use `R` packages and functions we have not discussed in class at your own risk. You will not be marked down for using them if your solutions are correct, but you may not get partial credit if your solutions are incorrect.
 
-
-
 ## Assignments
+* [Homework 9](https://maryclare.github.io/stat697/content/homework/hw_9.pdf)
 * [Homework 8](https://maryclare.github.io/stat697/content/homework/hw_8.pdf)
   - Solutions: [`hw_8_solutions.pdf`](https://maryclare.github.io/stat697/content/homework/hw_8_solutions.pdf), [`hw_8_solutions.Rmd`](https://maryclare.github.io/stat697/content/homework/hw_8_solutions.Rmd)
 * [Homework 7](https://maryclare.github.io/stat697/content/homework/hw_7.pdf)
