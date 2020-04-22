@@ -9,9 +9,8 @@
 Summary of Tasks:
   
 - Submit a data set;
-- Choose a data set from the approved datasets;
-- Submit analysis as part of homework - to be assigned;
-- Submit final paper on Friday, 5/01/20 by 11:59pm. See below for guidelines.
+- Submit analysis as part of Homework 9;
+- Submit final paper on Thursday, 5/07/20 by 5:00pm EST. See below for guidelines.
 
 ## Rubric for Final Paper
   
