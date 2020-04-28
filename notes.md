@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 ## Lecture Recordings
+* [Thursday, April 28](https://umass-amherst.zoom.us/rec/share/z-pXELXozklOQ7Pt9hj5CqcjL6PaT6a8hiYYqfALxE9PBw_dIVMg9C3SQQWiWbZD?startTime=1588082692000)
 * [Thursday, April 23](https://umass-amherst.zoom.us/rec/share/3N13NaOs3UhIU8-VuWGGdb99Otzneaa823AX-_YKzE3dctLRz5oiFcMEZQIn9Myf?startTime=1587650595000)
 * [Tuesday, April 21](https://umass-amherst.zoom.us/rec/share/vMFXdu3f2WFJG6Odz3OEVq8sH4b4T6a8hicbqPYIyE7dfjQxisi_DEhlgJPQgMni?startTime=1587477721000)
 * [Thursday, April 16](https://umass-amherst.zoom.us/rec/share/yf5FPezr2nNIXInguFvUV5E4AISmX6a80SMXrPUNnU-XZVfyfPAEObShA7o0Su5h?startTime=1587045709000)
@@ -21,6 +22,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * [Tuesday, March 24](https://umass-amherst.zoom.us/rec/share/4sNtLqn39W1LR6Px1HGAfK5_Bt_0eaa8h3AZqKVZnk6fQjq7tIzLQbKAZ_iIuFep?startTime=1585058562000)
 
 ## Contemporaneous Lecture Notes
+* [`ipad_notes_042820.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_042820.pdf)
 * [`ipad_notes_042320.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_042320.pdf)
 * [`ipad_notes_042120.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_042120.pdf)
 * [`ipad_notes_041620.pdf`](https://maryclare.github.io/stat697/content/notes/ipad_notes_041620.pdf)
@@ -47,6 +49,7 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/stat697/content/notes/notes_1.pdf)
 
 ## Lecture Code
+* Multivariate State Space Models: [`mvstate_statespace_marss.R`](https://maryclare.github.io/stat697/content/code/mvstate_statespace_marss.R)
 * Multivariate Time Series Analysis: [`var.R`](https://maryclare.github.io/stat697/content/code/var.R)
 * Applications of Spectral Methods: [`spectral_exports.R`](https://maryclare.github.io/stat697/content/code/spectral_exports.R), [`spectral_straw.R`](https://maryclare.github.io/stat697/content/code/spectral_straw.R)
 * More Spectral Methods: [`more_spectral.R`](https://maryclare.github.io/stat697/content/code/more_spectral.R)

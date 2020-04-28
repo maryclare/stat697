@@ -34,10 +34,10 @@ model <- list(
 # Use EM to get starting values for direct maximization
 fit <- MARSS(c(y.marss), model=model, method = "kem") 
 # Direct maximization starting at EM starting values
-fit.ml <- MARSS(c(y.marss), model = model, method = "BFGS", inits = fit)
+fit <- MARSS(c(y.marss), model = model, method = "BFGS", inits = fit)
 
-forc <- fit.ml$ytT # E[y_t | y_1,...,y_m]
-forc.se <- fit.ml$ytT.se
+forc <- fit$ytT # E[y_t | y_1,...,y_m]
+forc.se <- fit$ytT.se
 
 plot(expo$fdate, expo$exports, type = "l",
      xlab = "Date", ylab = "Exports",
