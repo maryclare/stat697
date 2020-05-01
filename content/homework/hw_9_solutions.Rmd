@@ -150,5 +150,17 @@ Several of the frequencies that correspond to the highest scaled periodogram val
 ```{r, eval = FALSE, echo = TRUE}
 head((1/sp$freq)[order(sp$coef.mags, decreasing = TRUE)])
 ```
+
+Note - another way to assess which other frequencies contribute to explaining the observed time series would have been to just look at the rest of the frequencies with large periodogram values after just regressing out a linear trend. Frequencies corresponding to 1 and 2 year periods are among the frequencies with the highest scaled periodogram values when the scaled periodogram is constructed from the residuals after regressing out a linear time trend.
+
+```{r, eval = FALSE, echo = TRUE}
+linmod <- lm(price~poly(dayssincestart, 1), data = broc,
+             subset = 1:m)
+pred <- predict(linmod, broc)
+y <- (broc$price - pred)[1:m]
+sp <- scaled.periodogram(y)
+head((1/sp$freq)[order(sp$coef.mags, decreasing = TRUE)])
+```
+
 \color{black}
 
