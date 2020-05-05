@@ -81,7 +81,7 @@ Lecture Data:
 * Strawberry Prices: [`straw`](https://maryclare.github.io/stat697/content/data/straw.RData)
 
 Exam Solutions:
-* [Exam 1](https://maryclare.github.io/stat697/content/homework/exam_1_sol.pdf)
+* [Exam 1](https://maryclare.github.io/stat697/content/exams/exam_1_sol.pdf)
 
 Resources for `R`:
 * We will use `R` extensively. Here are some recommended resources if are either entirely or somewhat new to to `R`:
